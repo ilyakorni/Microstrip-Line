@@ -1,0 +1,30 @@
+.DS_Store
+Thumbs.db
+# Папки с результатами расчетов и сетками, которые CST создает автоматически
+**/Model/
+**/Result/
+**/History/
+**/*.hid
+**/*.ds/
+# Временные и промежуточные файлы симулятора
+*.dds
+*.dst
+*.par
+*.prs
+*.rnm
+*.gnd
+*.pvc
+*.bak
+*.fie
+*.res
+*.sub
+*.svg
+*.log
+*.html
+*.m3d
+*.paf
+*.tto
+*.pot
+*.bup
+*.pwc
+*.~cst
